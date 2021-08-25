@@ -7,10 +7,12 @@
 #### 🚀 My programming tool: <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/>  </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/>
 # 🎡 How to contact me: 
 #### 📧 E-mail: claytonwang0205@gmail.com or 21180403@njnu.edu.cn
+#### 🐈 My Homepage is [https://Clayden-Wang.github.io/](https://Clayden-Wang.github.io/)
+#### 🔍 My Google Scolar: [Shuoyuan Wang](https://scholar.google.com/citations?hl=zh-CN&user=SfMkEYgAAAAJ)
 #### 😺 Gitlab: [Clayden-Wang0000000317954161](https://gitlab.com/Clayden-Wang)
 #### 🍈 ORCID: [0000-0003-1795-4161](https://orcid.org/0000-0003-1795-4161)
-#### 🔍 My Google Scolar: [Shuoyuan Wang](https://scholar.google.com/citations?hl=zh-CN&user=SfMkEYgAAAAJ)
-#### 🐈 My Homepage is [https://Clayden-Wang.github.io/](https://Clayden-Wang.github.io/)
+#### 👻 Kaggle: [Khadgar](https://www.kaggle.com/claydonwang)
+
 
 <table>
   <tr>
