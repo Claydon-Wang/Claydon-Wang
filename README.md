@@ -4,7 +4,7 @@
 #### 💬 You can ask me about some problems in HAR based on DL.
 #### 📖 I'm looking for a passionate group to sutdy for MS/PhD.
 #### 🌌 My expected future research areas include but not limited to Computer Vision and Computational Biology.
-#### 🚀 My programming tool: Python, c/c++
+#### 🚀 My programming tool: <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/>
 # 🎡 How to contact me: 
 #### 📧 E-mail: claytonwang0205@gmail.com or 21180403@njnu.edu.cn
 #### 😺 Gitlab: [Clayden-Wang0000000317954161](https://gitlab.com/Clayden-Wang)
@@ -12,9 +12,6 @@
 #### ⛄ My Google Scolar: [Shuoyuan Wang](https://scholar.google.com/citations?hl=zh-CN&user=SfMkEYgAAAAJ)
 #### 🐈 My Homepage is [https://Clayden-Wang.github.io/](https://Clayden-Wang.github.io/)
 #### 😄 Thank you! 
-
-
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 
 
 <table>
