@@ -9,15 +9,15 @@
 #### 📧 E-mail: claytonwang0205@gmail.com or 21180403@njnu.edu.cn
 #### 🐈 My Homepage is [https://Claydon-Wang.github.io/](https://Claydon-Wang.github.io)
 #### 🔍 My Google Scholar: [Shuoyuan Wang](https://scholar.google.com/citations?hl=zh-CN&user=SfMkEYgAAAAJ)
-#### 😺 Gitlab: [Clayden-Wang](https://gitlab.com/Clayden-Wang)
+#### 😺 Gitlab: [Claydon-Wang](https://gitlab.com/Clayden-Wang)
 #### 🍈 ORCID: [0000-0003-1795-4161](https://orcid.org/0000-0003-1795-4161)
 #### 👻 Kaggle: [Khadgar](https://www.kaggle.com/claydonwang)
 
 
 <table>
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=Clayden-Wang&show_icons=true&count_private=true&hide=prs&theme=dark"/></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clayden-Wang&layout=compact&hide_border=true&langs_count=10&theme=dark"/></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=Claydon-Wang&show_icons=true&count_private=true&hide=prs&theme=dark"/></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claydon-Wang&layout=compact&hide_border=true&langs_count=10&theme=dark"/></th>
   </tr>
   <tr>
    
@@ -27,7 +27,7 @@
 
 
 <!--
-**Clayden-Wang/Clayden-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Claydon-Wang/Clayden-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
