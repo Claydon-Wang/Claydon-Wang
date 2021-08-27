@@ -8,7 +8,7 @@
 # 🎡 How to contact me: 
 #### 📧 E-mail: claytonwang0205@gmail.com or 21180403@njnu.edu.cn
 #### 🐈 My Homepage is [https://Clayden-Wang.github.io/](https://Clayden-Wang.github.io)
-#### 🔍 My Google Scolar: [Shuoyuan Wang](https://scholar.google.com/citations?hl=zh-CN&user=SfMkEYgAAAAJ)
+#### 🔍 My Google Scholar: [Shuoyuan Wang](https://scholar.google.com/citations?hl=zh-CN&user=SfMkEYgAAAAJ)
 #### 😺 Gitlab: [Clayden-Wang](https://gitlab.com/Clayden-Wang)
 #### 🍈 ORCID: [0000-0003-1795-4161](https://orcid.org/0000-0003-1795-4161)
 #### 👻 Kaggle: [Khadgar](https://www.kaggle.com/claydonwang)
