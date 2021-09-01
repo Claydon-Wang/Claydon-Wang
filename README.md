@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# 👋 Hi I'm Clayton Wang!
 #### 🎓 I'm currently pursuing Bachelor's Degree at Nanjing Normal University.
 #### 🌱 My current researches include Machine Learning, Deep Learning and Human Activity Recognition(HAR).
 #### 💬 You can ask me about some problems in HAR based on ML and DL.
@@ -12,7 +12,7 @@
 #### 😺 Gitlab: [Claydon-Wang](https://gitlab.com/Clayden-Wang)
 #### 🍈 ORCID: [0000-0003-1795-4161](https://orcid.org/0000-0003-1795-4161)
 #### 👻 Kaggle: [Khadgar](https://www.kaggle.com/claydonwang)
-
+# 🍉 Tnank you for interest！
 
 <table>
   <tr>
