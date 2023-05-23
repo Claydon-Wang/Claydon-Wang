@@ -1,4 +1,4 @@
-# 👋 Hi I'm Clayton Wang!
+<!-- # 👋 Hi I'm Clayton Wang!
 #### 🎓 I'm currently pursuing Bachelor's Degree at Nanjing Normal University.
 #### 🌱 My current researches include Deep Learning and Human Activity Recognition(HAR) and Edge-AI.
 #### 🌌 My expected future research interests include <strong>Computer Vision</strong>, <strong>Computational Biology</strong>, <strong>Machine Learning</strong>, Edge-AI etc.
@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ -->
  -->
